@@ -78,7 +78,7 @@ var SupportedModes = {
     ocaml: ["OCaml", "ml|mli", "text/x-script.ocaml", "other"],
     perl: ["Perl", "pl|pm", "text/x-script.perl"],
     pgsql: ["pgSQL", "pgsql", "text/x-pgsql", "other"],
-    php: ["PHP", "php|phtml", "application/x-httpd-php"],
+    php: ["PHP", "php|phtml|module|inc", "application/x-httpd-php"],
     powershell: ["Powershell", "ps1", "text/x-script.powershell", "other"],
     python: ["Python", "py", "text/x-script.python"],
     r:    ["R"    , "r", "text/x-r", "other"],
